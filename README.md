@@ -1,6 +1,8 @@
 # AArch64 Playground
 
-Welcome to the **AArch64 Playground** repo! This project is a collection of AArch64 assembly code examples, with a focus on learning and experimenting with low-level programming on the AArch64 architecture. The repository (soon) will include tutorials and code examples for working with OpenGL and SDL2 in assembly.
+Welcome to the **AArch64 Playground** repo! This project is a collection of AArch64 assembly code examples, with a focus on learning and experimenting with low-level programming on the AArch64 architecture. The repository will include tutorials and code examples for working with OpenGL and SDL2 in assembly.
+
+Check out the video tutroial for an in-depth guide, and a walkthrough of the code: [Creating a Window using SDL2 in AArch64 Assembly].
 
 ## Getting Started
 

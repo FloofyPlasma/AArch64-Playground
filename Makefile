@@ -24,4 +24,7 @@ $(TARGET): $(OBJS)
 clean:
 	rm -rf $(BUILD_DIR)
 
-.PHONY: all clean
+run: $(TARGET)
+	@./$(TARGET)
+
+.PHONY: all clean run
